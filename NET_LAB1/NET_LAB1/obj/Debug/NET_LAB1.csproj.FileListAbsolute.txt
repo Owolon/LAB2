@@ -1,0 +1,8 @@
+C:\Users\ПК\source\repos\NET_LAB1\NET_LAB1\bin\Debug\NET_LAB1.exe.config
+C:\Users\ПК\source\repos\NET_LAB1\NET_LAB1\bin\Debug\NET_LAB1.exe
+C:\Users\ПК\source\repos\NET_LAB1\NET_LAB1\bin\Debug\NET_LAB1.pdb
+C:\Users\ПК\source\repos\NET_LAB1\NET_LAB1\obj\Debug\NET_LAB1.csproj.AssemblyReference.cache
+C:\Users\ПК\source\repos\NET_LAB1\NET_LAB1\obj\Debug\NET_LAB1.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\NET_LAB1\NET_LAB1\obj\Debug\NET_LAB1.exe
+C:\Users\ПК\source\repos\NET_LAB1\NET_LAB1\obj\Debug\NET_LAB1.pdb
+C:\Users\ПК\source\repos\NET_LAB1\NET_LAB1\obj\Debug\NET_LAB1.exe.config
